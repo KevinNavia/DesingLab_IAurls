@@ -1,0 +1,9 @@
+[project]
+name = "url_ai_checker"
+version = "0.1.0"
+description = "Librería con IA para revisar URLs."
+authors = [{name="Autor"}]
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = ["requests", "scikit-learn", "numpy", "networkx"]
